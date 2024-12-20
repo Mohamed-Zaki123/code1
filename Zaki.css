@@ -1,0 +1,15 @@
+nav {
+    background-color: rgb(102, 102, 102);
+}
+
+header {
+    background-image: url(./Camera2.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    max-width: 100vw;
+}
+
+a {
+    font-size: 100px;
+}
